@@ -1,0 +1,6 @@
+.DS_Store
+.build/
+dist/
+Sources/Shared/LocalKey.swift
+*.xcuserstate
+xcuserdata/

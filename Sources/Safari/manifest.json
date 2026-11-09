@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "Wolke",
+  "description": "Verbindet den SoundCloud-Player mit deinem Mac-Widget.",
+  "version": "1.7.0",
+  "permissions": [
+    "nativeMessaging"
+  ],
+  "host_permissions": [
+    "https://soundcloud.com/*",
+    "https://www.soundcloud.com/*"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://soundcloud.com/*",
+        "https://www.soundcloud.com/*"
+      ],
+      "js": [
+        "player.js",
+        "content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "action": {
+    "default_title": "Wolke",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "toolbar-16.png",
+      "32": "toolbar-32.png"
+    }
+  }
+}

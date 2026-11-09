@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wolke für SoundCloud</title>
+<link rel="stylesheet" href="popup.css">
+<script src="popup.js" defer></script>
+</head>
+<body>
+<header><img src="toolbar-32.png" alt="" width="22" height="22"><strong>Wolke</strong></header>
+<p id="message" role="status">SoundCloud-Tab wird geprüft …</p>
+<div id="player" hidden>
+    <div class="track">
+        <img id="cover" alt="" width="48" height="48" hidden>
+        <div><strong id="title"></strong><span id="artist"></span></div>
+    </div>
+    <progress id="progress" max="1" value="0" aria-label="Wiedergabefortschritt"></progress>
+    <div id="time"></div>
+    <div class="buttons">
+        <button data-action="back" aria-label="15 Sekunden zurück">−15 s</button>
+        <button data-action="toggle" aria-label="Wiedergabe umschalten">Play</button>
+        <button data-action="forward" aria-label="15 Sekunden vor">+15 s</button>
+        <button data-action="like" aria-label="Like umschalten" aria-pressed="false">♡</button>
+    </div>
+</div>
+<a id="open" href="https://soundcloud.com/discover" target="_blank" rel="noopener" hidden>SoundCloud öffnen</a>
+</body>
+</html>

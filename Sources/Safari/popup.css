@@ -1,0 +1,19 @@
+/* SPDX-License-Identifier: Apache-2.0 */
+:root { color-scheme: light dark; font: 13px system-ui; }
+body { box-sizing: border-box; width: 278px; margin: 0; padding: 14px; }
+header { display: flex; gap: 8px; align-items: center; }
+header img { padding: 2px 5px; object-fit: contain; background: #ff5500; border-radius: 5px; }
+header strong { font-size: 17px; }
+p { margin: 12px 0 8px; line-height: 1.35; }
+.track { display: flex; align-items: center; gap: 9px; margin: 12px 0 8px; }
+.track img { flex: none; border-radius: 6px; object-fit: cover; }
+.track div { min-width: 0; }
+.track strong, .track span { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.track span, #time { opacity: .7; }
+progress { width: 100%; accent-color: #ff5500; }
+#time { text-align: right; font-variant-numeric: tabular-nums; font-size: 11px; }
+.buttons { display: flex; justify-content: space-between; margin-top: 8px; }
+button { min-width: 42px; padding: 5px; }
+button[data-action="toggle"] { min-width: 55px; }
+#open { display: inline-block; margin-top: 5px; }
+[hidden] { display: none !important; }
