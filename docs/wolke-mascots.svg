@@ -1,0 +1,166 @@
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="191" viewBox="0 0 900 191" role="img" aria-labelledby="title description">
+  <title id="title">Wolke mascot collection</title>
+  <desc id="description">The sleeping cat, picnic bunny, plague doctor and crow, mummy, and witch-tower snail decorate five illustrated sample album covers.</desc>
+  <defs>
+    <clipPath id="cover"><rect x="12" y="4" width="98" height="98" rx="11"/></clipPath>
+    <linearGradient id="sky0" x2="0" y2="1"><stop stop-color="#bc745d"/><stop offset="1" stop-color="#654960"/></linearGradient>
+    <linearGradient id="sky1" x2="0" y2="1"><stop stop-color="#c7b881"/><stop offset="1" stop-color="#758a67"/></linearGradient>
+    <linearGradient id="sky2" x2="0" y2="1"><stop stop-color="#655678"/><stop offset="1" stop-color="#282b49"/></linearGradient>
+    <linearGradient id="sky3" x2="0" y2="1"><stop stop-color="#a87f50"/><stop offset="1" stop-color="#5c483d"/></linearGradient>
+    <linearGradient id="sky4" x2="0" y2="1"><stop stop-color="#756698"/><stop offset="1" stop-color="#353450"/></linearGradient>
+  </defs>
+  <g transform="translate(2 2)">
+    <rect x=".5" y=".5" width="171" height="186" rx="17" fill="#211e22" stroke="#453c46"/>
+    <g transform="translate(23 19) scale(1.05)">
+      <g clip-path="url(#cover)">
+        <rect x="12" y="4" width="98" height="98" fill="url(#sky0)"/>
+        <circle cx="36" cy="37" r="15" fill="#f7b77d" opacity=".9"/>
+        <path d="M8 82 37 60l13 9 25-24 42 35v26H8Z" fill="#654960" opacity=".65"/>
+        <path d="M8 88Q30 74 51 86T117 78v28H8Z" fill="#654960"/>
+        <path d="M24 17h13m-13 4h7" stroke="#fff2dd" stroke-width="1.2" opacity=".78"/>
+      </g>
+      <rect x="12.5" y="4.5" width="97" height="97" rx="10.5" fill="none" stroke="#fff" opacity=".16"/>
+<defs>
+    <linearGradient id="fur" x1="0" y1="0" x2=".65" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#ffc265"/>
+      <stop offset=".44" stop-color="#ff922e"/>
+      <stop offset="1" stop-color="#f75a13"/>
+    </linearGradient>
+  </defs>
+  <path d="M34 98C17 95 8 86 8 72C8 57 18 48 17 34C16 24 9 19 5 25C1 30 7 37 12 34"
+        fill="none" stroke="#442216" stroke-width="10" stroke-linecap="round"/>
+  <path d="M34 98C17 95 8 86 8 72C8 57 18 48 17 34C16 24 9 19 5 25C1 30 7 37 12 34"
+        fill="none" stroke="#f88229" stroke-width="7" stroke-linecap="round"/>
+  <path d="M10 78l-4 1m6 4-4 2m7 3-3 3M15 48l4 1m-5 4 4 1"
+        fill="none" stroke="#ba421a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M21 96C24 87 34 83 43 88C50 91 53 97 64 97C69 97 77 93 82 90L82 104C69 113 49 115 32 110C23 108 18 103 21 96Z"
+        fill="url(#fur)" stroke="#442216" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M24 103C33 107 44 106 54 110C46 113 32 111 26 108Z" fill="#ffc67a"/>
+  <path d="M31 90c-2 2-3 4-3 6m9-7c-1 2-1 4-1 6m7-4v5m8 1-1 3" fill="none" stroke="#c95423" stroke-width="2" stroke-linecap="round"/>
+  <path d="M75 94C76 87 80 84 83 83L85 74L93 81L100 82L110 77L110 89C115 94 114 101 108 105C103 109 92 108 85 106C80 105 75 101 75 94Z"
+        fill="url(#fur)" stroke="#442216" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M86 80l-1 6 6-2zm20 3-5 2 5 4z" fill="#ed7466"/>
+  <path d="M79 104c-3 0-5 3-3 5c2 2 10 2 13 0l1-2m13-1c-1 2-1 5 3 5 3 0 7-1 7-3c0-2-3-3-6-2"
+        fill="#ffb164" stroke="#442216" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M90 100c-2 2 1 5 6 5c5 0 8-2 7-5c-1-2-4-2-7-1-3-1-5-1-6 1Z" fill="#ffd694"/>
+  <path d="M84 94q3 3 6 0m10 1q3 3 6 0m-11 5h2l-1 1z"
+        fill="none" stroke="#592c20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M94 85l1 4m3-4-1 4m-9 11-4-1m5 3-4 1m19-3 5-1m-5 3 5 1"
+        fill="none" stroke="#b64c27" stroke-width="1.15" stroke-linecap="round"/>
+    </g>
+    <text x="86" y="163" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="13" font-weight="600" fill="#fff4ea">Sleeping cat</text>
+  </g>
+  <g transform="translate(183 2)">
+    <rect x=".5" y=".5" width="171" height="186" rx="17" fill="#211e22" stroke="#453c46"/>
+    <g transform="translate(23 19) scale(1.05)">
+<g stroke="#435744" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 99q8-47-5-81m7 45q-2-25 5-39M13 85Q3 56 10 27" fill="none" stroke="#768a56" stroke-width="3"/>
+    <path d="M108 69q10-18 10-22 3 20-9 28m-1 10Q92 65 94 62q14 3 17 19M10 62Q1 56 2 46q11 7 11 16" fill="#8ca06b"/>
+    <path d="M109 40q-14-6-14-22 2-8 7-5 10 5 7 27M10 44Q4 38 6 29q2-6 5-5 7 6-1 20Z" fill="#f4ca62"/>
+    <path d="M105 35q-7-5-7-11m3-4 5 2m-5 3 6 3m-97 2 4 2m-6 2 4 1" fill="none" stroke="#ac7637" stroke-width="1.1"/>
+    <path d="M109 40q-3-10-12-10 2 10 12 10Z" fill="#879b5e"/>
+  </g>
+      <g clip-path="url(#cover)">
+        <rect x="12" y="4" width="98" height="98" fill="url(#sky1)"/>
+        <circle cx="47" cy="35" r="15" fill="#f8dd96" opacity=".9"/>
+        <path d="M8 82 37 60l13 9 25-24 42 35v26H8Z" fill="#758a67" opacity=".65"/>
+        <path d="M8 88Q30 74 51 86T117 78v28H8Z" fill="#758a67"/>
+        <path d="M24 17h13m-13 4h7" stroke="#fff2dd" stroke-width="1.2" opacity=".78"/>
+      </g>
+      <rect x="12.5" y="4.5" width="97" height="97" rx="10.5" fill="none" stroke="#fff" opacity=".16"/>
+<g stroke="#5f4444" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M28 106c-12 1-16-4-13-9 3-4 9-2 13 1" fill="#fff4e0"/>
+    <path d="M27 105c1-10 10-18 22-17 12 1 22 9 28 17-13 10-39 11-50 0Z" fill="#fff1d9"/>
+    <path d="M66 90c-8-15-4-31 1-31 5 0 7 17 9 23 2-8 9-23 14-20 5 3 0 17-5 27" fill="#fff1d9"/>
+    <path d="M68 83q-5-14-2-18 3 2 6 16m9 2q7-15 9-17 1 5-6 17" fill="#e6a3a7" stroke="none"/>
+    <path d="M60 96c2-10 12-14 21-12 8 2 14 8 12 15-3 10-26 11-32 2-1-2-1-3-1-5Z" fill="#fff1d9"/>
+    <path d="M65 95q3 4 6 0m11 0q3 3 6 0m-14 5 3 1 2-1" fill="none" stroke-width="1.4"/>
+    <path d="M59 104q11 4 21 1l-2 6q-11 3-20-3Z" fill="#a6bb8a"/>
+    <path d="M98 96c-2-10 10-12 11 0" fill="none" stroke="#9b6536" stroke-width="3"/>
+    <path d="M94 96h19l-2 17H95Z" fill="#d8a76d"/>
+    <path d="M95 98h17v5H95z" fill="#d78579" stroke-width="1"/>
+    <path d="M99 98v5m5-5v5m5-5v5m-10 4h10m-7-2v6m5-6v6" fill="none" stroke="#ab6949" stroke-width="1"/>
+  </g>
+  <path d="M21 79q3 5 7 5-4 1-7 6-1-5-6-6 5 0 6-5Z" fill="#f6d895"/>
+    </g>
+    <text x="86" y="163" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="13" font-weight="600" fill="#fff4ea">Picnic bunny</text>
+  </g>
+  <g transform="translate(364 2)">
+    <rect x=".5" y=".5" width="171" height="186" rx="17" fill="#211e22" stroke="#453c46"/>
+    <g transform="translate(23 19) scale(1.05)">
+      <g clip-path="url(#cover)">
+        <rect x="12" y="4" width="98" height="98" fill="url(#sky2)"/>
+        <circle cx="58" cy="33" r="15" fill="#ce9b8c" opacity=".9"/>
+        <path d="M8 82 37 60l13 9 25-24 42 35v26H8Z" fill="#282b49" opacity=".65"/>
+        <path d="M8 88Q30 74 51 86T117 78v28H8Z" fill="#282b49"/>
+        <path d="M24 17h13m-13 4h7" stroke="#fff2dd" stroke-width="1.2" opacity=".78"/>
+      </g>
+      <rect x="12.5" y="4.5" width="97" height="97" rx="10.5" fill="none" stroke="#fff" opacity=".16"/>
+<g stroke="#292638" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M10 21c0-6 5-9 11-9 2-6 9-6 13-3l6 2-5 3c-1 4-4 5-7 5-3 7-9 11-17 9l-9 2Z" fill="#555268"/>
+    <path d="M17 19q4-4 9-2-4 7-11 6m6 3-1 5m5-6 1 5" fill="none" stroke="#82788b" stroke-width="1.4"/>
+    <circle cx="31" cy="11" r="1.1" fill="#eed0a3" stroke="none"/>
+    <path d="M63 109c6-12 14-18 21-23l18 1c6 6 10 14 12 24-14 7-34 6-51-2Z" fill="#423b51"/>
+    <path d="M94 94q-5 9-8 20m13-19 7 17" fill="none" stroke="#776382" stroke-width="1.4"/>
+    <path d="M104 74c6 4 5 15 1 20-4 5-10 6-15 1-9-1-15-2-21 0 0-7 6-14 18-16 3-6 12-8 17-5Z" fill="#e1d0af"/>
+    <circle cx="96" cy="84" r="4" fill="#56465a"/>
+    <circle cx="95" cy="83" r="1.1" fill="#df9e72" stroke="none"/>
+    <path d="M84 74c1-7 5-15 10-15 5 1 9 5 15 5l-2 9 9 3c-8 4-22 5-38 2Z" fill="#514357"/>
+    <path d="M84 73q13 2 24-2" fill="none" stroke="#b47a6f" stroke-width="1.8"/>
+  </g>
+    </g>
+    <text x="86" y="163" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="13" font-weight="600" fill="#fff4ea">Plague doctor &amp; crow</text>
+  </g>
+  <g transform="translate(545 2)">
+    <rect x=".5" y=".5" width="171" height="186" rx="17" fill="#211e22" stroke="#453c46"/>
+    <g transform="translate(23 19) scale(1.05)">
+      <g clip-path="url(#cover)">
+        <rect x="12" y="4" width="98" height="98" fill="url(#sky3)"/>
+        <circle cx="69" cy="31" r="15" fill="#ebcd91" opacity=".9"/>
+        <path d="M8 82 37 60l13 9 25-24 42 35v26H8Z" fill="#5c483d" opacity=".65"/>
+        <path d="M8 88Q30 74 51 86T117 78v28H8Z" fill="#5c483d"/>
+        <path d="M24 17h13m-13 4h7" stroke="#fff2dd" stroke-width="1.2" opacity=".78"/>
+      </g>
+      <rect x="12.5" y="4.5" width="97" height="97" rx="10.5" fill="none" stroke="#fff" opacity=".16"/>
+<g stroke="#564841" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M11 105c1-14 9-21 23-23 13-2 24 4 34 12 10 8 23 8 32 10 6 1 9 6 3 9-12 6-25 1-37-1-19 6-42 6-52 0-3-2-4-4-3-7Z" fill="#d6bd91"/>
+    <path d="M13 98q17 3 30 18M18 90q22 4 38 23m1-21-6 18m13-15-5 16m18-10-1 14m11-11-1 13m11-12-2 11" fill="none" stroke="#a08563" stroke-width="2"/>
+    <path d="M16 86c-6-4-7-16-1-22 8-8 23-7 32 1 6 6 4 19-3 24-8 5-21 4-28-3Z" fill="#efe0b9"/>
+    <path d="M12 73q17-6 36-4m-35 14q21-8 34 0m-30 5 8-7m14 1 5 7m-25-27 13 6" fill="none" stroke="#ad946d" stroke-width="1.6"/>
+    <path d="M18 75q12-4 24-3l-2 6q-11 3-21 2Z" fill="#5b4a49" stroke="none"/>
+    <path d="M23 76q2 3 5-1m6 0q2 2 4-1" fill="none" stroke="#fff0ba" stroke-width="1.3"/>
+    <path d="M10 102c-9-4-9-14-4-18 3-2 5 1 3 3-5 4-1 8 4 9" fill="#efe0b9"/>
+  </g>
+    </g>
+    <text x="86" y="163" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="13" font-weight="600" fill="#fff4ea">Mummy</text>
+  </g>
+  <g transform="translate(726 2)">
+    <rect x=".5" y=".5" width="171" height="186" rx="17" fill="#211e22" stroke="#453c46"/>
+    <g transform="translate(23 19) scale(1.05)">
+      <g clip-path="url(#cover)">
+        <rect x="12" y="4" width="98" height="98" fill="url(#sky4)"/>
+        <circle cx="80" cy="29" r="15" fill="#dab9e2" opacity=".9"/>
+        <path d="M8 82 37 60l13 9 25-24 42 35v26H8Z" fill="#353450" opacity=".65"/>
+        <path d="M8 88Q30 74 51 86T117 78v28H8Z" fill="#353450"/>
+        <path d="M24 17h13m-13 4h7" stroke="#fff2dd" stroke-width="1.2" opacity=".78"/>
+      </g>
+      <rect x="12.5" y="4.5" width="97" height="97" rx="10.5" fill="none" stroke="#fff" opacity=".16"/>
+<g stroke="#302942" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M13 108c10-7 17-8 30-7 14 1 26-1 40-2 7-1 10-10 17-12 6-2 13 2 14 8 2 13-20 20-41 21H25c-11 0-16-3-12-8Z" fill="#a4a5d1"/>
+    <path d="M102 90q1-8 5-12m-10 10q-3-8-1-12" fill="none"/>
+    <circle cx="107" cy="78" r="2.4" fill="#e5c2df"/>
+    <circle cx="96" cy="76" r="2.4" fill="#e5c2df"/>
+    <path d="M102 96q4 4 7-1" fill="none" stroke-width="1.4"/>
+    <path d="M44 95c-3-13 6-27 21-30 17-4 33 9 31 24-1 16-15 24-33 21-12-2-17-7-19-15Z" fill="#534268"/>
+    <path d="M85 94c4-9-2-19-12-21-9-2-18 4-19 12-2 8 4 15 11 15 6 0 11-4 10-10-1-4-4-6-8-5" fill="none" stroke="#b395d0" stroke-width="2.3"/>
+    <path d="M67 69l2-27 17 3-2 27Z" fill="#69607d"/>
+    <path d="M64 47c7-8 11-17 14-27 4 12 8 20 14 27-10 4-20 3-28 0Z" fill="#826597"/>
+    <path d="M74 57q3-4 6 0l-1 8-5-1Z" fill="#ffd483" stroke-width="1.2"/>
+    <path d="M22 112q12 1 24 0m35 2 7-2" fill="none" stroke="#e9c8eb" stroke-width="1.4"/>
+  </g>
+  <path d="M54 57q1 6 6 7-5 1-6 6-1-5-6-6 5-1 6-7Zm46 4q1 4 4 5-3 1-4 5-1-4-5-5 4-1 5-5Z" fill="#f8d79b"/>
+    </g>
+    <text x="86" y="163" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="13" font-weight="600" fill="#fff4ea">Witch-tower snail</text>
+  </g>
+</svg>

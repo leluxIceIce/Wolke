@@ -1,0 +1,17 @@
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 120 120">
+  <g stroke="#5f4444" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M28 106c-12 1-16-4-13-9 3-4 9-2 13 1" fill="#fff4e0"/>
+    <path d="M27 105c1-10 10-18 22-17 12 1 22 9 28 17-13 10-39 11-50 0Z" fill="#fff1d9"/>
+    <path d="M66 90c-8-15-4-31 1-31 5 0 7 17 9 23 2-8 9-23 14-20 5 3 0 17-5 27" fill="#fff1d9"/>
+    <path d="M68 83q-5-14-2-18 3 2 6 16m9 2q7-15 9-17 1 5-6 17" fill="#e6a3a7" stroke="none"/>
+    <path d="M60 96c2-10 12-14 21-12 8 2 14 8 12 15-3 10-26 11-32 2-1-2-1-3-1-5Z" fill="#fff1d9"/>
+    <path d="M65 95q3 4 6 0m11 0q3 3 6 0m-14 5 3 1 2-1" fill="none" stroke-width="1.4"/>
+    <path d="M59 104q11 4 21 1l-2 6q-11 3-20-3Z" fill="#a6bb8a"/>
+    <path d="M98 96c-2-10 10-12 11 0" fill="none" stroke="#9b6536" stroke-width="3"/>
+    <path d="M94 96h19l-2 17H95Z" fill="#d8a76d"/>
+    <path d="M95 98h17v5H95z" fill="#d78579" stroke-width="1"/>
+    <path d="M99 98v5m5-5v5m5-5v5m-10 4h10m-7-2v6m5-6v6" fill="none" stroke="#ab6949" stroke-width="1"/>
+  </g>
+  <path d="M21 79q3 5 7 5-4 1-7 6-1-5-6-6 5 0 6-5Z" fill="#f6d895"/>
+</svg>

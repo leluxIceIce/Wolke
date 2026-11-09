@@ -1,0 +1,15 @@
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 120 120">
+  <g stroke="#292638" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M10 21c0-6 5-9 11-9 2-6 9-6 13-3l6 2-5 3c-1 4-4 5-7 5-3 7-9 11-17 9l-9 2Z" fill="#555268"/>
+    <path d="M17 19q4-4 9-2-4 7-11 6m6 3-1 5m5-6 1 5" fill="none" stroke="#82788b" stroke-width="1.4"/>
+    <circle cx="31" cy="11" r="1.1" fill="#eed0a3" stroke="none"/>
+    <path d="M63 109c6-12 14-18 21-23l18 1c6 6 10 14 12 24-14 7-34 6-51-2Z" fill="#423b51"/>
+    <path d="M94 94q-5 9-8 20m13-19 7 17" fill="none" stroke="#776382" stroke-width="1.4"/>
+    <path d="M104 74c6 4 5 15 1 20-4 5-10 6-15 1-9-1-15-2-21 0 0-7 6-14 18-16 3-6 12-8 17-5Z" fill="#e1d0af"/>
+    <circle cx="96" cy="84" r="4" fill="#56465a"/>
+    <circle cx="95" cy="83" r="1.1" fill="#df9e72" stroke="none"/>
+    <path d="M84 74c1-7 5-15 10-15 5 1 9 5 15 5l-2 9 9 3c-8 4-22 5-38 2Z" fill="#514357"/>
+    <path d="M84 73q13 2 24-2" fill="none" stroke="#b47a6f" stroke-width="1.8"/>
+  </g>
+</svg>

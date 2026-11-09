@@ -18,11 +18,18 @@ private enum CardArt {
     static let cat = Bundle.main.url(forResource: "WolkeCat", withExtension: "png").flatMap(NSImage.init(contentsOf:))
 }
 
+enum PlayerMascot {
+    case cat
+    case illustration(front: String, behind: String? = nil)
+    case none
+}
+
 struct PlayerCard<Controls: View>: View {
     @Environment(\.widgetRenderingMode) private var mode
     let state: PlayerState
     var preview = false
     var family: WidgetFamily = .systemMedium
+    var mascot: PlayerMascot = .cat
     @ViewBuilder let controls: () -> Controls
 
     private var foreground: Color { mode == .fullColor ? .white : .primary }
@@ -135,6 +142,9 @@ struct PlayerCard<Controls: View>: View {
     private func artwork(size: CGFloat) -> some View {
         let scale = size / 96
         return ZStack(alignment: .topLeading) {
+            if case .illustration(_, let behind?) = mascot {
+                mascotImage(Image(behind), scale: scale)
+            }
             ZStack {
                 Color.white.opacity(0.10)
                 if let data = state.cover, let image = NSImage(data: data) {
@@ -154,15 +164,27 @@ struct PlayerCard<Controls: View>: View {
             .clipShape(.rect(cornerRadius: 10 * scale))
             .overlay { RoundedRectangle(cornerRadius: 10 * scale).strokeBorder(.white.opacity(0.12)) }
             .offset(x: 9 * scale, y: 9 * scale)
-            if let cat = CardArt.cat {
-                retainedColor(Image(nsImage: cat).resizable())
-                    .scaledToFit()
-                    .frame(width: 94 * scale, height: 94 * scale)
-                    .offset(y: 6 * scale)
+            switch mascot {
+            case .cat:
+                if let cat = CardArt.cat {
+                    mascotImage(Image(nsImage: cat), scale: scale)
+                }
+            case .illustration(let front, _):
+                mascotImage(Image(front), scale: scale)
+            case .none:
+                EmptyView()
             }
         }
         .frame(width: size, height: 104 * scale)
         .accessibilityHidden(true)
+    }
+
+    private func mascotImage(_ image: Image, scale: CGFloat) -> some View {
+        retainedColor(image.resizable())
+            .scaledToFit()
+            .frame(width: 94 * scale, height: 94 * scale)
+            .offset(y: 6 * scale)
+            .allowsHitTesting(false)
     }
 
     @ViewBuilder private func retainedColor(_ image: Image) -> some View {

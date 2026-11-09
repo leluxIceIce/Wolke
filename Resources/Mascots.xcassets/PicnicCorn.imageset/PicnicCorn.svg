@@ -1,0 +1,10 @@
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 120 120">
+  <g stroke="#435744" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 99q8-47-5-81m7 45q-2-25 5-39M13 85Q3 56 10 27" fill="none" stroke="#768a56" stroke-width="3"/>
+    <path d="M108 69q10-18 10-22 3 20-9 28m-1 10Q92 65 94 62q14 3 17 19M10 62Q1 56 2 46q11 7 11 16" fill="#8ca06b"/>
+    <path d="M109 40q-14-6-14-22 2-8 7-5 10 5 7 27M10 44Q4 38 6 29q2-6 5-5 7 6-1 20Z" fill="#f4ca62"/>
+    <path d="M105 35q-7-5-7-11m3-4 5 2m-5 3 6 3m-97 2 4 2m-6 2 4 1" fill="none" stroke="#ac7637" stroke-width="1.1"/>
+    <path d="M109 40q-3-10-12-10 2 10 12 10Z" fill="#879b5e"/>
+  </g>
+</svg>
